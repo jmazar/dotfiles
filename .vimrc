@@ -32,10 +32,6 @@ let g:bufExplorerDefaultHelp=0
 set noswapfile
 set nobackup
 
-" Macvim
-:set guioptions -=L
-:set guioptions -=r
-
 set encoding=utf-8
 
 set listchars=eol:$,tab:>-,trail:.,extends:>,precedes:<
