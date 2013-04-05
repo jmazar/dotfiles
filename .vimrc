@@ -1,7 +1,7 @@
 syntax on
 set nu
 colorscheme zenburn
-set gfn=Inconsolata:h12:cANSI
+set gfn=Inconsolata:h10:cANSI
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
